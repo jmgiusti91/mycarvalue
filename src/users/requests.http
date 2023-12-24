@@ -14,7 +14,7 @@ GET http://localhost:3000/auth/2
 
 ### Find user by email
 
-GET http://localhost:3000/auth?email=jmgiusti91@gmail.com
+GET http://localhost:3000/auth?email=my@gmail.com
 
 ### Update user
 
